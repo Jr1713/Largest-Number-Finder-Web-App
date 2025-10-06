@@ -5,7 +5,7 @@ body {
     background-color: #f7f7f7;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center; /* Ensures vertical centering */
     min-height: 100vh;
     padding: 2rem 1rem;
 }
