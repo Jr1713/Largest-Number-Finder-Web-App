@@ -5,7 +5,7 @@ body {
     background-color: #f7f7f7;
     display: flex;
     justify-content: center;
-    align-items: center; /* Ensures vertical centering */
+    align-items: center; /* THIS IS THE FIX for vertical centering */
     min-height: 100vh;
     padding: 2rem 1rem;
 }
